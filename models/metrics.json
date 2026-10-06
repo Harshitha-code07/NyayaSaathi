@@ -1,0 +1,57 @@
+{
+ "accuracy": 1.0,
+ "n_total": 1100,
+ "n_test": 220,
+ "counts": {
+  "Tenant-landlord dispute": 220,
+  "Other / unclear": 220,
+  "Consumer complaint": 220,
+  "Workplace / labour issue": 220,
+  "RTI": 220
+ },
+ "report": {
+  "Consumer complaint": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 44.0
+  },
+  "Other / unclear": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 44.0
+  },
+  "RTI": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 44.0
+  },
+  "Tenant-landlord dispute": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 44.0
+  },
+  "Workplace / labour issue": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 44.0
+  },
+  "accuracy": 1.0,
+  "macro avg": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 220.0
+  },
+  "weighted avg": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1-score": 1.0,
+   "support": 220.0
+  }
+ }
+}

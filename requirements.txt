@@ -1,0 +1,9 @@
+streamlit>=1.35
+scikit-learn
+pandas
+joblib
+matplotlib
+python-docx
+fpdf2
+requests
+python-dotenv
